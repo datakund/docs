@@ -13,6 +13,15 @@ Welcome to docs's documentation!
    intro
    Google Search Api
    Scrape Packages Count
+   Insta Post Bot
+   LinkedIn Connection Sending
+   Google Search Keyword
+   YouTube Video Uploader
+   Amazon Product Result Page Scraper
+   Scrape Top Reviews of Amazon Product
+   Instagram Auto Like Bot
+   Instagram Auto Follow Bot
+   Profile Backlink Automation bot
 
 
 
