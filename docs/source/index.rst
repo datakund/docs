@@ -11,8 +11,6 @@ Welcome to docs's documentation!
    :caption: Contents:
    
    intro
-   Google Search Api
-   Scrape Packages Count
    Insta Post Bot
    LinkedIn Connection Sending
    Google Search Keyword
